@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Pranav-29"><img src="https://avatars3.githubusercontent.com/u/48860494?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Goel</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=pranav-29" title="Documentation">📖</a></td>
     <td align="center"><a href="https://toefrog.github.io/Blog/"><img src="https://avatars0.githubusercontent.com/u/1122675?v=4" width="100px;" alt=""/><br /><sub><b>Chris Gargotta</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=toefrog" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/parithon"><img src="https://avatars3.githubusercontent.com/u/8602418?v=4" width="100px;" alt=""/><br /><sub><b>Anthony Conrad (parithon)</b></sub></a><br /><a href="#ideas-parithon" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://beachcasts.com"><img src="https://avatars0.githubusercontent.com/u/46075204?s=200&v=4" width="100px;" alt="Beachcasts"/><br /><sub><b>Beachcasts</b></sub></a><br /><a href="#ideas-beachcasts" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=beachcasts" title="Documentation">📖</a></td>
   </tr>
 </table>
 
